@@ -1,0 +1,224 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"Zidouha la douze",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/d/a/9/da99687fa50e62d7805b14f3a547d660.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+      {
+         "song_name":"Lmaghreb Zyane Wella Jenna",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/a/d/9/ad91531c605649f2ac87f1ebf527bb3d.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+      {
+         "song_name":"Chayebni Sehour  Barad",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/8/5/5/855b28b788dd180445b8b664342ecb64.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Hchouma Alik El Ghzal",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/4/a/a/4aa96aa2cf54276fd5b4f0cfb93d311e.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Jdi El Ghozlane",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/e/7/4/e7482658fc82735515b93b7bd5eab1c3.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Ma Nadikch Ya Vacansia",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/3/9/5/395bba9b21b59bd20b70a0e6a8c9b034.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/5/d/3/5d33524e5c6540a9dc7d2f340a24496d.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/5/a/c/5ac0c2ecb28ee8a5f1194ed181d9c5a6.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/c/b/2/cb29ae58049fbd48b1b8f5bbcd428e00.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/1/f/b/1fb721bf29a90778599b2504db886a9e.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/f/2/1/f2176b2108c2a97b77dc2c7a35390147.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"مختار البركاني",
+         "song_link":"https://nadorzik.com//mp3/d/9/3/d9388a0b49d9804040276c656a395a25.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Choufi Ki Waliti",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/7/756b9b5110e8340868f3671ce4a73500.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Khaliwni Mani Liha",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/1/19d669943118a941c148d600eb717621.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Lhob Wala Brachwa",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/d/d2ca6780adffd286fa5ea040f67bf07d.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Halma",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/0/0c1aafbc639ce91527bcd8177a16e50d.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Rani Mansitek",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/6/6047d0bf3aa16c2613fa16f295194ba7.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Samhini Ya Mama",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/3/3872416eb2cc2f5d78e1d4acbe3ab4ab.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Shir Lile",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/1/17f3bf4ec5acf0929d0fc7b3dffc0ea4.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Biban Zahri",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/0/08cbf41063796c756a73472c514227c0.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Ayam Zine",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/1/13e896886b95256c9aa80927a5b1b98d.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Tharas Jnahi",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/8/8504a703e0c5049bdfd0e596b7d231ce.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+        {
+         "song_name":"Ghdarni Lhob",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/4/4760bd3bacae5ea9bd3dff9ce38f15be.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+           {
+         "song_name":"Siri Fotini",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/9/97afb2f0aff9208b887212f961b0d1ff.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+           {
+         "song_name":"Chakhda Chaabia",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/4/4a01ce8c7b441c0ec053af07f87a390e.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+           {
+         "song_name":"Lghorba",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/f/f08a0594fe5e2cdc2cc1fdd4d4146ae4.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+           {
+         "song_name":"Nsay Nsay",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/a/a4fd30a363f91835efd2d5a0aec752db.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+           {
+         "song_name":"Kachkoul Chaabi",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/2/21ddbbc2be3ca7cb89c51c1f696b8d66.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+           {
+         "song_name":"3tini Ra9am Telephone",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/e/ea50f89a2c99c47d6b47817acf6ae4bf.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+           {
+         "song_name":"Jay Jay Jay",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/d/d4739e23a48751735a12d770517cbb38.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+           {
+         "song_name":"Swaken",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/f/fca44e4aeb11db6786a9a3cdc776af43.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+           {
+         "song_name":"Zahri imta Yatfakarni",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/f/fbe61f6a528b5cebbddb14c561f8e6b0.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+           {
+         "song_name":"Latsawalni Wach Nsit",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/a/ac0f69619c8c18ad80711e2b632bb361.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+           {
+         "song_name":"ya lghadi",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/9/939cc03e74863b95ac01063c8a09a3d4.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      },
+      {
+         "song_name":"Ah Milano",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com//mp3/5/52e1b80a15589026e39f5921980658ee.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMDEzNDNf/unnamed.png"
+      }
+   ]
+}
